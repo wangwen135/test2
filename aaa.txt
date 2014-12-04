@@ -5,4 +5,8 @@ add a new line by test
 git has a mutable index called stage
 git tracks changes
 Creating a new branch quick
+<<<<<<< HEAD
 the modify by master branch
+=======
+adfsdadfas
+>>>>>>> feature1
