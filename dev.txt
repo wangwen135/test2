@@ -1,6 +1,1 @@
-aaa.txt
-bbb.txt
-dev.txt
-hello.log
-license
-wcd
+this is a dev branch flage file
