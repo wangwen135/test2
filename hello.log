@@ -1,0 +1,79 @@
+commit 0ee2c6526ce4abd1f947bb65ea0316ebcaeab585
+Merge: 8c8ed6f e2be315
+Author: wangwen135 <wangwen135@gmail.com>
+Date:   Thu Dec 4 22:39:36 2014 +0800
+
+    merge with no-ff
+
+commit e2be31547340f95f7bc44ca6088921429b98e4c0
+Author: wangwen135 <wangwen135@gmail.com>
+Date:   Thu Dec 4 22:38:06 2014 +0800
+
+    add merge by dev branch
+
+commit 8c8ed6f0af7a9842aede6d375e21d36e5549e282
+Merge: 99bf642 fd3711f
+Author: wangwen135 <wangwen135@gmail.com>
+Date:   Thu Dec 4 22:30:49 2014 +0800
+
+    conflict fixed
+
+commit 99bf642b2946791d3b045d9d155cfc71de3de6a2
+Author: wangwen135 <wangwen135@gmail.com>
+Date:   Thu Dec 4 22:24:49 2014 +0800
+
+    master branch commit
+
+commit fd3711f1294fc274879a71044f72453df2b265a5
+Author: wangwen135 <wangwen135@gmail.com>
+Date:   Thu Dec 4 22:22:41 2014 +0800
+
+    feature1 branch
+
+commit 4f7c1472baf17a09035ba61e7044cc38bc675e39
+Author: wangwen135 <wangwen135@gmail.com>
+Date:   Thu Dec 4 22:16:36 2014 +0800
+
+    branch test
+
+commit 39729d7f3cd477dd59ebf1e9334c455c34ebc602
+Author: wangwen135 <wangwen135@gmail.com>
+Date:   Thu Dec 4 21:53:26 2014 +0800
+
+    嵌套了另外一个
+
+commit 74c9e298b46c1217496fd7035f01231c9e32fead
+Author: wangwen135 <wangwen135@gmail.com>
+Date:   Thu Dec 4 21:31:51 2014 +0800
+
+    中文的注释了
+
+commit dbbc639a325d8e8d30ac85acc1a13ac81eba8c8b
+Author: wangwen135 <wangwen135@gmail.com>
+Date:   Thu Dec 4 01:29:25 2014 +0800
+
+    git tracks changes
+
+commit e39ff22b0fa54df5169b23cda7d7b98ffe937205
+Author: wangwen135 <wangwen135@gmail.com>
+Date:   Thu Dec 4 01:26:55 2014 +0800
+
+    understand how stage works
+
+commit 2513d70a12526b9fbab9e6a8dc8c6197689b7086
+Author: wangwen135 <wangwen135@gmail.com>
+Date:   Thu Dec 4 01:10:48 2014 +0800
+
+    test test test 3
+
+commit 721c817b55ff6b22ac7b3f1cb9f054f6eff6967e
+Author: wangwen135 <wangwen135@gmail.com>
+Date:   Thu Dec 4 01:06:17 2014 +0800
+
+    add new line and modify one line
+
+commit 3a501328ccdb7f8b11993fea9070c3f32ce286e3
+Author: wangwen135 <wangwen135@gmail.com>
+Date:   Thu Dec 4 00:33:12 2014 +0800
+
+    a file be commit
